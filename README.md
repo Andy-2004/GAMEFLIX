@@ -1,4 +1,4 @@
-# GAMEFLIX
+# gameflix
 Feito uma site de games online 
 de realidade virtual 
 com base na netflix
